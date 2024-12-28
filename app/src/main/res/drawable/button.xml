@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#7760ed"
+        android:endColor="#3c3484"/>
+    <corners android:radius="8dp" /> <!-- Закругление углов -->
+</shape>
